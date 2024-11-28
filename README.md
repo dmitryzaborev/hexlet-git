@@ -1,1 +1,2 @@
 Hello, Diman
+New string
