@@ -1,0 +1,15 @@
+{
+    "name": "learning/hexlet-git",
+    "autoload": {
+        "psr-4": {
+            "Learning\\HexletGit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Zaborev",
+            "email": "zaboreiv@yandex.ru"
+        }
+    ],
+    "require": {}
+}

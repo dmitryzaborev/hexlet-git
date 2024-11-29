@@ -1,0 +1,11 @@
+{
+    "name": "zaborev/one-project",
+    "description": "'This is my one project in php'",
+    "authors": [
+        {
+            "name": "Zaborev Dmitry"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
